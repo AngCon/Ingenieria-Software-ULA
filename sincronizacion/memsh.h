@@ -10,7 +10,7 @@
 <<<<<<< HEAD
 #define SEM_ID 0x123456
 =======
-#define SEM_ID 0x000000
+#define SEM_ID 0x101011
 >>>>>>> dev_sincronizacion
 
 
