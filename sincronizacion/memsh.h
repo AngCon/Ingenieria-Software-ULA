@@ -7,16 +7,16 @@
 
 #define ID 999
 #define ROUTE "/bin/lspci"
+<<<<<<< HEAD
 #define SEM_ID 0x123456
+=======
+#define SEM_ID 0x000000
+>>>>>>> dev_sincronizacion
 
-typedef struct
-{
-  pid_t pid;
-  long long numero;
-  unsigned char termino;
-}inf_p;
 
-typedef struct{
-  pid_t pid_mon;
+<<<<<<< HEAD
 	inf_p array_p[20];
-}shmem_data;
+=======
+	inf_p array_p[30];
+>>>>>>> dev_sincronizacion
+
