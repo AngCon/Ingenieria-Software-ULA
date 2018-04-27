@@ -1,0 +1,3 @@
+# Ignora todos los ficheros acabados en .out
+#
+*.out
